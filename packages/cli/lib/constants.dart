@@ -9,7 +9,7 @@ var isCli = false;
 
 /// Flutter Repo Address
 final kFlutterRepo =
-    envVars['FVM_GIT_CACHE'] ?? 'https://github.com/flutter/flutter.git';
+    envVars['FVM_GIT_CACHE'] ?? 'https://mirrors.tuna.tsinghua.edu.cn/flutter/flutter.git';
 
 /// Working Directory for FVM
 
